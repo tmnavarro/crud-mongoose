@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/tmnavarro/crud-mongoose#readme",
   "dependencies": {
-    "mongoose": "^4.4.17"
+    "mongoose": "^4.4.17",
+    "mongoose-bcrypt": "^1.4.2"
   }
 }
